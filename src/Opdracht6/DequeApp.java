@@ -1,4 +1,4 @@
-package Deque;
+package Opdracht6;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

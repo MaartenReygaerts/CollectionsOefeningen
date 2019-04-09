@@ -1,4 +1,4 @@
-package Queue;
+package Opdracht5;
 
 public class BurgerOrder implements Comparable<BurgerOrder>  {
     private String name;
