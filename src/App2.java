@@ -11,12 +11,6 @@ public class App2 {
         Scanner input = new Scanner(System.in);
         ArrayList<String> list = new ArrayList<>();
 
-
-        System.out.println("Geef een woord in: ");
-        String zin = input.next();
-        list.add(zin);
-        System.out.println(list);
-
         boolean end = false;
         while (!end) {
             System.out.println("Geef een woord in: ");
