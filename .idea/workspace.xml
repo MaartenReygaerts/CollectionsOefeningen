@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0243463-bbee-44c5-b69f-809fe5443628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/BurgerOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/QueueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeSet/TreeSetAPp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deque/DequeApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/App2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/AppHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/LotterijApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/LotterijAppLinkedHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Collections/MainApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opdracht1/App2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AppHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hashset/AppHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotterijApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opdracht2/LotterijApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LotterijAppLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opdracht3/LotterijAppLinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opdracht1/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeSetAPp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/Queue/BurgerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/Queue/BurgerOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections/Queue/QueueApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Collections/Queue/QueueApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/BurgerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/BurgerOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/QueueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/QueueApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Queue/QueueApp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Deque/DequeApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="280">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,19 +31,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Queue/QueueApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Queue/BurgerOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="410">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding>
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,8 +77,9 @@
         <option value="$PROJECT_DIR$/src/TreeSetAPp.java" />
         <option value="$PROJECT_DIR$/src/QueueApp.java" />
         <option value="$PROJECT_DIR$/src/Opdracht1/App2.java" />
-        <option value="$PROJECT_DIR$/src/Queue/BurgerOrder.java" />
+        <option value="$PROJECT_DIR$/src/Deque/DequeApp.java" />
         <option value="$PROJECT_DIR$/src/Queue/QueueApp.java" />
+        <option value="$PROJECT_DIR$/src/Queue/BurgerOrder.java" />
       </list>
     </option>
   </component>
@@ -117,6 +111,24 @@
               <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
               <item name="Collections" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Opdracht1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Opdracht2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Opdracht3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collections" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collections" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Queue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -128,7 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554803730612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554816412515" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -148,9 +160,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.QueueApp">
-    <configuration name="LotterijApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opdracht2.LotterijApp" />
+    <configuration name="DequeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deque.DequeApp" />
       <module name="Collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deque.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -192,10 +210,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.QueueApp" />
+        <item itemvalue="Application.DequeApp" />
         <item itemvalue="Application.TreeSetAPp" />
         <item itemvalue="Application.LotterijAppLinkedHashSet" />
         <item itemvalue="Application.PersonApp" />
-        <item itemvalue="Application.LotterijApp" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +234,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -225,13 +243,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -323,29 +341,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Queue/BurgerOrder.java">
+    <entry file="file://$PROJECT_DIR$/src/Deque/DequeApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="280">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
           <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Queue/QueueApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="416">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue/BurgerOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
           </folding>
         </state>
       </provider>

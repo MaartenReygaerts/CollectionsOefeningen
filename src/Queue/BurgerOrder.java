@@ -1,6 +1,6 @@
 package Queue;
 
-public class BurgerOrder  {
+public class BurgerOrder implements Comparable<BurgerOrder>  {
     private String name;
     private int number;
 
@@ -13,6 +13,11 @@ public class BurgerOrder  {
     public BurgerOrder(String name) {
         this.name = name;
         this.number = 1;
+    }
+
+    public BurgerOrder(String name, int number) {
+        this.name = name;
+        this.number = number;
     }
 
     public String getName() {
@@ -37,5 +42,10 @@ public class BurgerOrder  {
                 "name='" + name + '\'' +
                 ", number=" + number +
                 '}';
+    }
+
+    @Override
+    public int compareTo(BurgerOrder o) {
+        return this.number - o.number;
     }
 }
