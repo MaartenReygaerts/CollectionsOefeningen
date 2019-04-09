@@ -1,12 +1,14 @@
-import java.util.ArrayList;
+package Opdracht3;
+
 import java.util.Collection;
 import java.util.HashSet;
+import java.util.LinkedHashSet;
 import java.util.Random;
 
-public class LotterijApp {
+public class LotterijAppLinkedHashSet {
     public static void main(String[] args) {
 
-        Collection<Integer> listPlayer = new HashSet<>();
+        Collection<Integer> listPlayer = new LinkedHashSet<>();
         Collection<Integer> listComputer = new HashSet<>();
 
         listPlayer.add(1);

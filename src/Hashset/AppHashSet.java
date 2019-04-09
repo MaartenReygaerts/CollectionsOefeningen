@@ -1,13 +1,13 @@
-import java.util.*;
-import java.util.stream.IntStream;
-import java.util.stream.Stream;
+package Hashset;
 
-public class MainApp {
+import java.util.*;
+
+public class AppHashSet {
     public static void main(String[] args) {
 
-        //Maak een programma dat de gebruiker om een aantal getallen vraagt. Gebruik hiervoor de klasse Scanner met haar methode nextInt().
+      //Gebruik in dit programma nu een HashSet
         Scanner input = new Scanner(System.in);
-        ArrayList<Integer> list = new ArrayList<>();
+        Collection<Integer> list = new HashSet<>();
 
 
         System.out.println("Geef een getal in :");
@@ -35,3 +35,5 @@ public class MainApp {
         System.out.println("Average is " + average);
     }
 }
+
+
